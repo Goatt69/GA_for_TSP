@@ -18,6 +18,12 @@ TSP Route Generator là một ứng dụng sử dụng thuật toán di truyền
 - **Môi trường phát triển**: IDE như IntelliJ IDEA, Eclipse hoặc các IDE khác hỗ trợ Java.
 - **SDK**: SDK 21 hoặc cao hơn.
 
+## Clone
+
+```bash
+git clone https://github.com/Goatt69/GA_for_TSP.git
+```
+
 ## Maven dependency  
 `pom.xml`:
 ```xml
